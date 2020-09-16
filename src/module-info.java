@@ -1,0 +1,2 @@
+module com.git.test {
+}
